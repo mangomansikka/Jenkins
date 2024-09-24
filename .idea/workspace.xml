@@ -38,7 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Asus/OneDrive/Työpöytä/Metropolia/Ohjelmistoprojekti/QuadLingo",
     "node.js.detected.package.eslint": "true",
@@ -76,7 +76,7 @@
       <workItem from="1726824371503" duration="2518000" />
       <workItem from="1726834790916" duration="57000" />
       <workItem from="1726835039398" duration="932000" />
-      <workItem from="1727180194603" duration="1520000" />
+      <workItem from="1727180194603" duration="1939000" />
     </task>
     <servers />
   </component>
