@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3d51a51-0d02-462a-9a5f-e47f6f582fbf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/TimeCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TimeCalculatorTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="a3d51a51-0d02-462a-9a5f-e47f6f582fbf" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,11 +34,14 @@
   "keyToString": {
     "Application.JenkinsGreeting.executor": "Run",
     "JUnit.TimeCalculatorTest.executor": "Run",
+    "Maven.JenkinsProject [clean].executor": "Run",
+    "Maven.JenkinsProject [install].executor": "Run",
+    "Maven.JenkinsProject [jacoco:report].executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Asus/OneDrive/Työpöytä/Metropolia/Ohjelmistoprojekti/QuadLingo",
     "node.js.detected.package.eslint": "true",
@@ -60,6 +61,13 @@
       <recent name="" />
     </key>
   </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+      <command value="mvn jacoco:report" />
+    </option>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,7 +86,7 @@
       <workItem from="1726824371503" duration="2518000" />
       <workItem from="1726834790916" duration="57000" />
       <workItem from="1726835039398" duration="932000" />
-      <workItem from="1727180194603" duration="909000" />
+      <workItem from="1727180194603" duration="3280000" />
     </task>
     <servers />
   </component>
