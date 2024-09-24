@@ -14,17 +14,13 @@ public class TimeCalculatorTest {
     @Test
     public void testCalculateTimeZeroSpeed() {
         TimeCalculator calculator = new TimeCalculator();
-        assertThrows(IllegalArgumentException.class, () -> {
-            calculator.calculateTime(100, 0);
-        });
+        assertThrows(IllegalArgumentException.class, () -> calculator.calculateTime(100, 0));
     }
 
     @Test
     public void testCalculateTimeNegativeSpeed() {
         TimeCalculator calculator = new TimeCalculator();
-        assertThrows(IllegalArgumentException.class, () -> {
-            calculator.calculateTime(100, -10);
-        });
+        assertThrows(IllegalArgumentException.class, () -> calculator.calculateTime(100, -10));
     }
 }
 
