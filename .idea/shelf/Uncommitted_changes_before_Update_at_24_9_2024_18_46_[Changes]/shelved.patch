@@ -1,0 +1,39 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"a3d51a51-0d02-462a-9a5f-e47f6f582fbf\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n        <option value=\"JUnit3 Test Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 0\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2mKTexhhgrKRog7bEqMo6kxXz2R\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.JenkinsGreeting.executor\": \"Run\",\r\n    \"JUnit.TimeCalculatorTest.executor\": \"Run\",\r\n    \"Maven.JenkinsProject [clean].executor\": \"Run\",\r\n    \"Maven.JenkinsProject [install].executor\": \"Run\",\r\n    \"Maven.JenkinsProject [jacoco:report].executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary\": \"JUnit3\",\r\n    \"com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3\": \"junit.framework.TestCase\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/Asus/OneDrive/Työpöytä/Metropolia/Ohjelmistoprojekti/QuadLingo\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"settings.editor.selected.configurable\": \"preferences.lookFeel\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CreateTestDialog.Recents.Supers\">\r\n      <recent name=\"junit.framework.TestCase\" />\r\n    </key>\r\n    <key name=\"CreateTestDialog.RecentsKey\">\r\n      <recent name=\"\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunAnythingCache\">\r\n    <option name=\"myCommands\">\r\n      <command value=\"mvn clean\" />\r\n      <command value=\"mvn install\" />\r\n      <command value=\"mvn jacoco:report\" />\r\n    </option>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"jdk-17.0.9-jbr-17.0.9-4caba194b151-51f1b679\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"a3d51a51-0d02-462a-9a5f-e47f6f582fbf\" name=\"Changes\" comment=\"\" />\r\n      <created>1726824370316</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1726824370316</updated>\r\n      <workItem from=\"1726824371503\" duration=\"2518000\" />\r\n      <workItem from=\"1726834790916\" duration=\"57000\" />\r\n      <workItem from=\"1726835039398\" duration=\"932000\" />\r\n      <workItem from=\"1727180194603\" duration=\"5400000\" />\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 04dd30269345cda3da8db874969d02bf40a15fbd)
++++ b/.idea/workspace.xml	(date 1727192745260)
+@@ -4,9 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="a3d51a51-0d02-462a-9a5f-e47f6f582fbf" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="a3d51a51-0d02-462a-9a5f-e47f6f582fbf" name="Changes" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -43,7 +41,7 @@
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+-    "git-widget-placeholder": "master",
++    "git-widget-placeholder": "Merging master",
+     "kotlin-language-version-configured": "true",
+     "last_opened_file_path": "C:/Users/Asus/OneDrive/Työpöytä/Metropolia/Ohjelmistoprojekti/QuadLingo",
+     "node.js.detected.package.eslint": "true",
+@@ -88,7 +86,7 @@
+       <workItem from="1726824371503" duration="2518000" />
+       <workItem from="1726834790916" duration="57000" />
+       <workItem from="1726835039398" duration="932000" />
+-      <workItem from="1727180194603" duration="5400000" />
++      <workItem from="1727180194603" duration="5704000" />
+     </task>
+     <servers />
+   </component>
