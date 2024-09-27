@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3d51a51-0d02-462a-9a5f-e47f6f582fbf" name="Changes" comment="" />
+    <list default="true" id="a3d51a51-0d02-462a-9a5f-e47f6f582fbf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TimeCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TimeCalculator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +19,7 @@
       <list>
         <option value="Class" />
         <option value="JUnit3 Test Class" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
@@ -33,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.JenkinsGreeting.executor": "Run",
+    "Docker.Dockerfile.executor": "Run",
     "JUnit.TimeCalculatorTest.executor": "Run",
     "Maven.JenkinsProject [clean].executor": "Run",
     "Maven.JenkinsProject [install].executor": "Run",
@@ -43,7 +49,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Asus/OneDrive/Työpöytä/Metropolia/Ohjelmistoprojekti/JenkinsProject",
+    "last_opened_file_path": "C:/Users/Asus/OneDrive/Työpöytä/Metropolia/Ohjelmistoprojekti/WithDocker",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -89,6 +95,7 @@
       <workItem from="1727180194603" duration="5400000" />
       <workItem from="1727245795497" duration="126000" />
       <workItem from="1727419414104" duration="302000" />
+      <workItem from="1727432938672" duration="408000" />
     </task>
     <servers />
   </component>
